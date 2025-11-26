@@ -1,4 +1,3 @@
-# CSC372-Project1-Unity
 1. How to play the game?
 - You need to press play button on Unity IDE, and **start** the game.
 - Move along the scene by press **arrow key** on your keyboard.
